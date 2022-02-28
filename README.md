@@ -62,3 +62,7 @@ Person(name: "Adnan", age: 47)
 
       
 #### ** لطباعة هذه الأشكال ستستخدم SF Symbols
+
+<p align="center">
+<img width="245" alt="Screen Shot 2022-02-28 at 4 16 52 AM" src="https://user-images.githubusercontent.com/60436597/156063174-3711be50-6492-4f1f-9692-6b27703094f0.png">
+</p>
