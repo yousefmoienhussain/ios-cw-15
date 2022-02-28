@@ -35,7 +35,7 @@ Person(name: "Adnan", age: 47)
 ---
 
 
-### تمرين (<a href="https://github.com/kuwaitcodes/ios-cw-15">رابط التمرين</a>)
+### تمرين
 
 
 
